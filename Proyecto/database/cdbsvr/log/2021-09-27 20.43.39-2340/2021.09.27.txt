@@ -1,0 +1,229 @@
+[2021.09.27 20:43:39] [0000m.00s.098ms] [0] WELCOME
+[2021.09.27 20:43:39] [0000m.00s.101ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.09.27 20:43:39] [0000m.00s.102ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.09.27 20:43:39] [0000m.00s.102ms] [1] Base flow version [VX.2.7]
+[2021.09.27 20:43:39] [0000m.00s.102ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.09.27 20:43:39] [0000m.00s.102ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.09.27 20:43:39] [0000m.00s.144ms] [1] Machine [DESKTOP-1NI94LR]  IP [127.0.0.1,192.168.67.36]  User [johen]  PID [2340]
+[2021.09.27 20:43:39] [0000m.00s.144ms] [1] Operating system [Microsoft Windows 10 Business Edition, 64-bit (build 19043)]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] Current working dir [C:\PADS Projects\DxProjects\ProyectoPrueba]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\johen\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] SDD_PLATFORM [win32]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.09.27 20:43:39] [0000m.00s.145ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.09.27 20:43:39] [0000m.00s.146ms] [2] S: Loading config files
+[2021.09.27 20:43:39] [0000m.00s.147ms] [1] Config file [C:\PADS Projects\iCDB\Plugins\Plugins.cfg] not found - creating default one
+[2021.09.27 20:43:39] [0000m.00s.150ms] [0] Config: ERROR: Could not open config file [C:\PADS Projects\iCDB\Plugins\Plugins.cfg]
+[2021.09.27 20:43:39] [0000m.00s.152ms] [1] Config file [C:\PADS Projects\iCDB\Server\Server.cfg] not found - creating default one
+[2021.09.27 20:43:39] [0000m.00s.158ms] [0] Config: ERROR: Could not open config file [C:\PADS Projects\iCDB\Server\Server.cfg]
+[2021.09.27 20:43:39] [0000m.00s.158ms] [1] Config file [C:\PADS Projects\DxProjects\ProyectoPrueba\database\cdbsvr\Server.cfg] not found
+[2021.09.27 20:43:39] [0000m.00s.164ms] [3] S: Config loaded
+[2021.09.27 20:43:39] [0000m.00s.168ms] [0] S: Project path [C:\PADS Projects\DxProjects\ProyectoPrueba\database] on file system [NTFS]
+[2021.09.27 20:43:39] [0000m.00s.168ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\ProyectoPrueba\ProyectoPrueba.prj] on file system [NTFS]
+[2021.09.27 20:43:39] [0000m.00s.173ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.09.27 20:43:39] [0000m.00s.173ms] [0] S: Single-user mode (auto)
+[2021.09.27 20:43:39] [0000m.00s.174ms] [0] S: Event polling mode autodetection
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] S: Started up automatically by iCDB Client: DESKTOP-1NI94LR:johen:6780
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] S: Auto close mode
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] S: Database ID [a198-38f5-c303-57c2-8356-251e-3562-5160-27e4-4341-0200-b0a8]
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] PathTranslator: BEGIN dumping
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] PathTranslator: Local -> global path prefix list
+[2021.09.27 20:43:39] [0000m.00s.176ms] [0] PathTranslator: Global -> local path prefix list
+[2021.09.27 20:43:39] [0000m.00s.177ms] [0] PathTranslator: END dumping
+[2021.09.27 20:43:39] [0000m.00s.177ms] [0] S: START
+[2021.09.27 20:43:39] [0000m.00s.190ms] [0] S: Server startup lock file created
+[2021.09.27 20:43:39] [0000m.00s.191ms] [0] S: Listening for client connections on port [10000]
+[2021.09.27 20:43:39] [0000m.00s.224ms] [0] S: Server network ID [DESKTOP-1NI94LR:192.168.67.36,DESKTOP-1NI94LR:10000]
+[2021.09.27 20:43:39] [0000m.00s.224ms] [0] S: Server GUID [bcca-8ed3-d48f-2657-b356-2511-4562-5160-69e5-4341-0200-b0a8]
+[2021.09.27 20:43:39] [0000m.00s.224ms] [0] S: Project GUID [a198-38f5-c303-57c2-8356-251e-3562-5160-27e4-4341-0200-b0a8]
+[2021.09.27 20:43:39] [0000m.00s.231ms] [0] S: Wrote data to server address file
+[2021.09.27 20:43:39] [0000m.00s.232ms] [0] S: Server startup lock file removed
+[2021.09.27 20:43:39] [0000m.00s.233ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\ProyectoPrueba\ProyectoPrueba.prj]
+[2021.09.27 20:43:44] [0000m.05s.219ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.09.27 20:43:44] [0000m.05s.220ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.09.27 20:43:44] [0000m.05s.220ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.09.27 20:43:44] [0000m.05s.222ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.09.27 20:43:44] [0000m.05s.222ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.09.27 20:43:44] [0000m.05s.222ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.09.27 20:43:44] [0000m.05s.224ms] [0] S: Local disc access time: 192 us
+[2021.09.27 20:43:44] [0000m.05s.224ms] [0] S: File server access time: 297 us
+[2021.09.27 20:43:45] [0000m.05s.357ms] [0] Single file [C:\PADS Projects\DxProjects\ProyectoPrueba\database\icdb.dat] not exists, after [3] retries.
+[2021.09.27 20:43:45] [0000m.05s.358ms] [1] Single file [C:\PADS Projects\DxProjects\ProyectoPrueba\database\icdb.dat] created
+[2021.09.27 20:43:45] [0000m.05s.449ms] [0] iCDB Server PI: Server & plugin session [1]
+[2021.09.27 20:43:45] [0000m.05s.449ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\ProyectoPrueba\database]
+[2021.09.27 20:43:45] [0000m.05s.449ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\ProyectoPrueba\database] opened
+[2021.09.27 20:43:45] [0000m.05s.918ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.09.27 20:43:45] [0000m.05s.918ms] [0] iCDB Database: Loading constraint definitions into database
+[2021.09.27 20:43:46] [0000m.06s.525ms] [0] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] loaded
+[2021.09.27 20:43:46] [0000m.06s.930ms] [0] iCDB Server PI: Initializing plugins
+[2021.09.27 20:43:46] [0000m.06s.931ms] [0] iCDB Server PI: Plugins initialized
+[2021.09.27 20:43:46] [0000m.06s.931ms] [0] S: iCDB database loaded
+[2021.09.27 20:43:46] [0000m.06s.940ms] [0] S: Starting threads
+[2021.09.27 20:43:46] [0000m.06s.950ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.09.27 20:43:46] [0000m.06s.952ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.09.27 20:43:46] [0000m.06s.981ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.09.27 20:43:46] [0000m.06s.982ms] [0] IT: Session [2] for host [DESKTOP-1NI94LR] user [johen] client type[0] clsvrPluginID[0] with process ID [6780] created
+[2021.09.27 20:43:46] [0000m.06s.993ms] [1] SC[2]: Registered sub-client [DxD] with ID [1] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:46] [0000m.07s.058ms] [1] CMT: There are [1] clients now: 2
+[2021.09.27 20:43:46] [0000m.07s.115ms] [1] SC[2]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:46] [0000m.07s.236ms] [1] SC[2]: Registered sub-client [SymbolEditor] with ID [3] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:46] [0000m.07s.264ms] [1] SC[2]: Registered sub-client [SelectionHolder] with ID [4] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.360ms] [1] SC[2]: Registered sub-client [BlockCacheDxD:463526632] with ID [5] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.364ms] [1] SC[2]: UnRegistered sub-client [BlockCacheDxD:463526632] with ID [5] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.448ms] [1] SC[2]: Registered sub-client [Core::DesignListener-463526584-0] with ID [6] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.462ms] [1] SC[2]: Registered sub-client [BlockCacheDxD:463526296] with ID [7] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.473ms] [1] SC[2]: Registered sub-client [Core::NetFlatData-16935] with ID [8] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.623ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.636ms] [1] SC[2]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:43:47] [0000m.07s.648ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [10] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.423ms] [1] SC[2]: Registered sub-client [DesignSearcher2] with ID [11] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.468ms] [1] SC[2]: Registered sub-client [HdlProject] with ID [12] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.495ms] [1] SC[2]: Registered sub-client [Navigator] with ID [13] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.530ms] [1] SC[2]: Registered sub-client [OutputWindow] with ID [14] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.542ms] [1] SC[2]: Registered sub-client [PlaceDevice] with ID [15] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.913ms] [1] SC[2]: Registered sub-client [FFSearch_RBHost] with ID [16] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:03] [0000m.23s.926ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [17] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.534ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [18] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.553ms] [1] SC[2]: Registered sub-client [SAE] with ID [19] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.638ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [20] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.651ms] [1] SC[2]: Registered sub-client [CCZAddin] with ID [21] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.664ms] [1] SC[2]: Registered sub-client [DxThumbnails] with ID [22] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.677ms] [1] SC[2]: Registered sub-client [MyParts] with ID [23] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:10] [0000m.30s.771ms] [1] SC[2]: Registered sub-client [PinsList] with ID [24] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.31s.410ms] [1] SC[2]: Registered sub-client [toolboxes] with ID [25] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.31s.707ms] [1] SC[2]: Registered sub-client [IBDInstanceDialog] with ID [26] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.31s.723ms] [1] SC[2]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:462807080] with ID [27] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.32s.016ms] [1] SC[2]: Registered sub-client [SheetConnectorsCacheDxD:1632789851] with ID [28] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.32s.027ms] [1] SC[2]: Registered sub-client [NetsNamesCollectorDxD:1632789851] with ID [29] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.32s.194ms] [1] SC[2]: Registered sub-client [PartReplaceUtils] with ID [30] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.32s.210ms] [1] SC[2]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [31] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:11] [0000m.32s.272ms] [1] SC[2]: Registered sub-client [xprob] with ID [32] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:12] [0000m.32s.839ms] [1] SC[2]: Registered sub-client [StartServerClient1834] with ID [33] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:12] [0000m.32s.857ms] [1] SC[2]: UnRegistered sub-client [StartServerClient1834] with ID [33] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:44:24] [0000m.44s.807ms] [0] DFAMT: File server access time: 269 us
+[2021.09.27 20:44:25] [0000m.45s.428ms] [1] SC[2]: Registered sub-client [DxDbSearch] with ID [34] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:03] [0011m.23s.923ms] [1] SC[2]: UnRegistered sub-client [SystemDesignDll] with ID [10] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:03] [0011m.23s.934ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [35] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:03] [0011m.24s.125ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [17] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:03] [0011m.24s.136ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [36] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.357ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [18] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.360ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [36] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.369ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [37] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.381ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [38] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.443ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [20] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.454ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [39] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.911ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [38] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.914ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [37] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.925ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [40] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.937ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [41] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.988ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [39] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:04] [0011m.24s.998ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [42] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:07] [0011m.27s.862ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [41] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:07] [0011m.27s.885ms] [0] SC[2]: ERROR: Trying to register already registered sub-client [LocalSymbolsDataProvider] with ID [40]
+[2021.09.27 20:55:07] [0011m.27s.953ms] [0] ET: ERROR [Client Exception: Category[Client] Error[SubClientNameAlreadyExists] Description[Sub-client name already used by another sub-client] Message[]]: From client [2] command execution FAILED: Server # ClientCommandID[86] # SubClientID[0] @ RegisterSubClient # SubClientName[LocalSymbolsDataProvider]
+[2021.09.27 20:55:07] [0011m.27s.966ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [43] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:07] [0011m.28s.018ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [42] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:07] [0011m.28s.029ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [44] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:08] [0011m.28s.445ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [43] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:08] [0011m.28s.458ms] [0] SC[2]: ERROR: Trying to register already registered sub-client [LocalSymbolsDataProvider] with ID [40]
+[2021.09.27 20:55:08] [0011m.28s.458ms] [0] ET: ERROR [Client Exception: Category[Client] Error[SubClientNameAlreadyExists] Description[Sub-client name already used by another sub-client] Message[]]: From client [2] command execution FAILED: Server # ClientCommandID[91] # SubClientID[0] @ RegisterSubClient # SubClientName[LocalSymbolsDataProvider]
+[2021.09.27 20:55:08] [0011m.28s.470ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [45] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:08] [0011m.28s.529ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [44] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:08] [0011m.28s.540ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [46] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:55:09] [0011m.30s.004ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [40] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:56:19] [0012m.39s.860ms] [1] SC[2]: Registered sub-client [ObjectHolder_646092192] with ID [47] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:56:19] [0012m.39s.870ms] [1] SC[2]: Registered sub-client [BlockCacheDxD:642363688] with ID [48] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:56:19] [0012m.39s.881ms] [1] SC[2]: Registered sub-client [GlobalNetAliasUpdater_640766216] with ID [49] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:56:19] [0012m.39s.891ms] [1] SC[2]: Registered sub-client [IcdbNetProcessorSubClientDxD:818925328] with ID [50] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:56:46] [0013m.06s.572ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\ProyectoPrueba\ProjectBackup\backups\2021-09-27 20.56.46 - auto.zip] with GUID [fd5e-a95a-7f58-54e4-e486-2514-5862-5160-a594-4341-0200-b0a8]
+[2021.09.27 20:56:46] [0013m.06s.573ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[fd5e-a95a-7f58-54e4-e486-2514-5862-5160-a594-4341-0200-b0a8] CreationTime[Tuesday, September 28, 2021 00:56:46] Type[Autosave] Creator[iCDB Server (2021-09-27 20.43.39-2340)] ApplicationName[iCDB Server (2021-09-27 20.43.39-2340)] UserName[johen] MachineName[DESKTOP-1NI94LR] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\ProyectoPrueba\ProjectBackup\backups\2021-09-27 20.56.46 - auto.zip] BackupFileSize[26018] Persistent[FALSE]
+[2021.09.27 20:59:16] [0015m.36s.575ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [45] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:16] [0015m.36s.650ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [51] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:16] [0015m.36s.663ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [52] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:16] [0015m.36s.716ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [46] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:16] [0015m.36s.726ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [53] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:18] [0015m.39s.178ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [52] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:18] [0015m.39s.200ms] [0] SC[2]: ERROR: Trying to register already registered sub-client [LocalSymbolsDataProvider] with ID [51]
+[2021.09.27 20:59:18] [0015m.39s.200ms] [0] ET: ERROR [Client Exception: Category[Client] Error[SubClientNameAlreadyExists] Description[Sub-client name already used by another sub-client] Message[]]: From client [2] command execution FAILED: Server # ClientCommandID[2169] # SubClientID[0] @ RegisterSubClient # SubClientName[LocalSymbolsDataProvider]
+[2021.09.27 20:59:18] [0015m.39s.211ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [54] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:18] [0015m.39s.222ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [51] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:18] [0015m.39s.263ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [53] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:18] [0015m.39s.274ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [55] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:19] [0015m.39s.749ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [54] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:19] [0015m.39s.761ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [56] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:19] [0015m.39s.773ms] [1] SC[2]: Registered sub-client [FFSSelListener] with ID [57] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:19] [0015m.39s.828ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [55] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 20:59:19] [0015m.39s.838ms] [1] SC[2]: Registered sub-client [DxConstraints] with ID [58] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:24:39] [0041m.00s.336ms] [1] SC[2]: UnRegistered sub-client [SystemDesignDll] with ID [35] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:24:40] [0041m.00s.461ms] [1] SC[2]: Registered sub-client [SystemDesignDll] with ID [59] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:24:40] [0041m.00s.645ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [56] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:24:40] [0041m.00s.656ms] [1] SC[2]: Registered sub-client [LocalSymbolsDataProvider] with ID [60] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:35] [0050m.56s.293ms] [1] SC[2]: UnRegistered sub-client [SystemDesignDll] with ID [59] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.56s.654ms] [1] SC[2]: UnRegistered sub-client [DesignSearcher2] with ID [11] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.164ms] [1] SC[2]: UnRegistered sub-client [GlobalNetAliasUpdater_640766216] with ID [49] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.179ms] [1] SC[2]: UnRegistered sub-client [BlockCacheDxD:642363688] with ID [48] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.180ms] [1] SC[2]: UnRegistered sub-client [ObjectHolder_646092192] with ID [47] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.181ms] [1] SC[2]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:818925328] with ID [50] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.189ms] [1] SC[2]: UnRegistered sub-client [Navigator] with ID [13] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:36] [0050m.57s.196ms] [1] SC[2]: UnRegistered sub-client [FFSSelListener] with ID [57] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.356ms] [1] SC[2]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [60] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.685ms] [1] SC[2]: UnRegistered sub-client [FFSearch_RBHost] with ID [16] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.756ms] [1] SC[2]: UnRegistered sub-client [MyParts] with ID [23] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.764ms] [1] SC[2]: UnRegistered sub-client [toolboxes] with ID [25] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.931ms] [1] SC[2]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.933ms] [1] SC[2]: UnRegistered sub-client [PartReplaceUtils] with ID [30] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:37] [0050m.57s.933ms] [1] SC[2]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [31] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.011ms] [1] SC[2]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:462807080] with ID [27] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.014ms] [1] SC[2]: UnRegistered sub-client [Core::NetFlatData-16935] with ID [8] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.015ms] [1] SC[2]: UnRegistered sub-client [BlockCacheDxD:463526296] with ID [7] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.016ms] [1] SC[2]: UnRegistered sub-client [Core::DesignListener-463526584-0] with ID [6] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.017ms] [1] SC[2]: UnRegistered sub-client [SheetConnectorsCacheDxD:1632789851] with ID [28] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.018ms] [1] SC[2]: UnRegistered sub-client [NetsNamesCollectorDxD:1632789851] with ID [29] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.068ms] [1] SC[2]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.070ms] [1] SC[2]: UnRegistered sub-client [DxD] with ID [1] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.116ms] [1] SC[2]: UnRegistered sub-client [xprob] with ID [32] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.116ms] [1] SC[2]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:38] [0050m.59s.182ms] [1] SC[2]: UnRegistered sub-client [OutputWindow] with ID [14] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:39] [0050m.59s.788ms] [1] SC[2]: UnRegistered sub-client [DxDbSearch] with ID [34] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:39] [0050m.59s.818ms] [1] SC[2]: UnRegistered sub-client [SAE] with ID [19] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:39] [0050m.59s.898ms] [1] SC[2]: UnRegistered sub-client [CCZAddin] with ID [21] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:39] [0050m.59s.918ms] [1] SC[2]: UnRegistered sub-client [DxThumbnails] with ID [22] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:56] [0051m.16s.775ms] [1] SC[2]: UnRegistered sub-client [DxConstraints] with ID [58] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:56] [0051m.16s.913ms] [1] SC[2]: UnRegistered sub-client [PinsList] with ID [24] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:56] [0051m.17s.183ms] [1] SC[2]: UnRegistered sub-client [PlaceDevice] with ID [15] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:56] [0051m.17s.332ms] [1] SC[2]: UnRegistered sub-client [IBDInstanceDialog] with ID [26] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:56] [0051m.17s.345ms] [1] SC[2]: UnRegistered sub-client [HdlProject] with ID [12] for session ID [2] host [DESKTOP-1NI94LR] user [johen] process ID [6780]
+[2021.09.27 21:34:57] [0051m.17s.604ms] [1] CMT: Removed client [2]
+[2021.09.27 21:34:57] [0051m.17s.605ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.09.27 21:34:59] [0051m.19s.450ms] [0] CMT: Starting server auto-close
+[2021.09.27 21:34:59] [0051m.19s.466ms] [0] S: Closing server
+[2021.09.27 21:34:59] [0051m.19s.607ms] [0] iCDB Server PI: Closing plugins
+[2021.09.27 21:34:59] [0051m.19s.609ms] [0] iCDB Server PI: Plugins closed
+[2021.09.27 21:34:59] [0051m.19s.610ms] [0] iCDB Server PI: Unloading database
+[2021.09.27 21:34:59] [0051m.19s.636ms] [0] iCDB Server PI: Saving storage
+[2021.09.27 21:34:59] [0051m.19s.636ms] [0] iCDB Server PI: Closing database
+[2021.09.27 21:34:59] [0051m.19s.816ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[65%] data[64%]
+[2021.09.27 21:34:59] [0051m.19s.816ms] [1] iCDB Server PI: Stats: Database file size [85752 (83.7 kB)]
+[2021.09.27 21:34:59] [0051m.19s.907ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2021.09.27 21:34:59] [0051m.20s.097ms] [0] iCDB Server PI: Database closed
+[2021.09.27 21:34:59] [0051m.20s.097ms] [0] iCDB Server PI: Defragmenting database
+[2021.09.27 21:34:59] [0051m.20s.110ms] [0] iCDB Server PI: Creating database [C:\PADS Projects\DxProjects\ProyectoPrueba\database] backup to file [C:\PADS Projects\DxProjects\ProyectoPrueba\database\cdbback\2021-09-27 21.34.59-2340-d.zip]
+[2021.09.27 21:34:59] [0051m.20s.164ms] [0] iCDB Server PI: Database backup: DONE
+[2021.09.27 21:34:59] [0051m.20s.336ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.09.27 21:34:59] [0051m.20s.336ms] [0] Database GUARD OK: [85752]
+[2021.09.27 21:34:59] [0051m.20s.337ms] [0] SingleFile: [4cc3-a055-0b65-59cb] SFI version check [1009] [1009]
+[2021.09.27 21:34:59] [0051m.20s.343ms] [0] SingleFile: [4cc3-a055-0b65-59cb] Database SFI header has been read in [32ms 763us]
+[2021.09.27 21:35:00] [0051m.20s.545ms] [1] iCDB Server PI: Stats: Database file sizes: before[85752 (83.7 kB)], after[59696 (58.3 kB)], gain[26056 (25.4 kB)]
+[2021.09.27 21:35:00] [0051m.20s.605ms] [0] Single file [C:\PADS Projects\DxProjects\ProyectoPrueba\database\icdb.dat] closed with size [59696 (58.3 kB)]
+[2021.09.27 21:35:00] [0051m.20s.618ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2021.09.27 21:35:00] [0051m.20s.618ms] [1] BackupTransaction: Removing database backup [C:\PADS Projects\DxProjects\ProyectoPrueba\database\cdbback\2021-09-27 21.34.59-2340-d.zip]
+[2021.09.27 21:35:00] [0051m.20s.619ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [4934895] ticks
+[2021.09.27 21:35:00] [0051m.20s.619ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [493489] microseconds
+[2021.09.27 21:35:00] [0051m.20s.620ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [108]
+[2021.09.27 21:35:00] [0051m.20s.620ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [218] commands per second
+[2021.09.27 21:35:00] [0051m.20s.620ms] [1] iCDB Server PI: Stats: Mem[32657408]
+[2021.09.27 21:35:00] [0051m.20s.620ms] [1] iCDB Server PI: Stats: MemPeak[37490688]
+[2021.09.27 21:35:00] [0051m.20s.993ms] [0] MWT: Destroy the shutdown block reason.
+[2021.09.27 21:35:00] [0051m.20s.995ms] [0] MWT: STOP
+[2021.09.27 21:35:00] [0051m.20s.996ms] [0] S: STOP
